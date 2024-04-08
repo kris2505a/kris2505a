@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++ programming and game developing
 - 🌱 I’m currently learning c++ and java
 - 📫 How to reach me - @kris.cpp (instagram)
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
