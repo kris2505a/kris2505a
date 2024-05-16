@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kris2505a
 - 👀 I’m interested in c++ programming and game developing
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning c++ and unreal engine 5
 - 📫 How to reach me - @kris.cpp (instagram)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
