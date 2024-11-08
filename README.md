@@ -1,8 +1,6 @@
 <h1 align="center">Greetings 👋, I'm Krishna</h1>
 <h3 align="center">Aspiring Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kris2505a&label=Profile%20views&color=2984bc&style=plastic" alt="kris2505a" /> </p>
-
 - 🔭 I’m currently working on [Breakout-Clone](https://github.com/kris2505a/Breakout-Clone)
 
 - 🌱 I’m currently learning **Game Development using SFML and Unreal Engine 5**
@@ -23,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kris2505a&show_icons=true&theme=gruvbox&cache_seconds=50&locale=en&layout=compact" alt="kris2505a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kris2505a&show_icons=true&theme=gruvbox&cache_seconds=50&locale=en" alt="kris2505a" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kris2505a&theme=default" alt="kris2505a" /></p>
