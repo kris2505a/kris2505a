@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shri-krishna-prasath-654a45257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shri-krishna-prasath-654a45257" height="30" width="40" /></a>
 <a href="https://instagram.com/kris.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kris.cpp" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@krishfps9222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishfps9222" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/krishfps9222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krishfps9222" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishna2505a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishna2505a" height="30" width="40" /></a>
 </p>
 
