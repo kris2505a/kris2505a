@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kris2505a&label=Profile%20views&color=0e75b6&style=flat" alt="kris2505a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris2505a" alt="kris2505a" /></a> </p>
-
 - 🔭 I’m currently working on [Breakout-Clone](https://github.com/kris2505a/Breakout-Clone)
 
 - 🌱 I’m currently learning **Game Dev using SFML and Unreal Engine 5**
