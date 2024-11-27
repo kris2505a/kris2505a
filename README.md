@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Krishna</h1>
 <h3 align="center">Aspiring Game Developer</h3>
 
-- 🔭 I’m currently working on [Breakout-Clone](https://github.com/kris2505a/Breakout-Clone)
+- 🔭 I’m currently working on [Kitty Game Engine](https://github.com/kris2505a/Kitty)
 
-- 🌱 I’m currently learning **Game Development using SFML and Unreal Engine 5**
+- 🌱 I’m currently learning **Game Engine Development**
 
 - 📫 Reach me at **krishfps9222@gmail.com**
 
