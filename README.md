@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Krishna</h1>
-<h3 align="center">Game Development and Engine Enthusiast</h3>
+<h3 align="center">Aspiring Game Dev and Game Engine Enthusiast</h3>
 
 
 - 🌱 I’m currently learning **Game Engine Development**
