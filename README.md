@@ -1,8 +1,8 @@
 <h1 align="center">Greetings 👋, I'm Krishna</h1>
 <h3 align="center">Aspiring Game Dev and Game Engine Enthusiast</h3>
 
-
-- 🌱 I’m currently learning **Physics Engine Development**
+- 🔭 I’m currently working on [Physics Engine](https://github.com/kris2505a/SFML_Engine.git)
+- 🌱 I’m currently learning **C++**
 
 - 📫 Reach me at **krishfps9222@gmail.com**
 
