@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Game Dev and Game Engine Enthusiast</h3>
 
 
-- 🌱 I’m currently learning **Game Engine Development**
+- 🌱 I’m currently learning **Physics Engine Development**
 
 - 📫 Reach me at **krishfps9222@gmail.com**
 
