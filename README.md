@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Krishna</h1>
 <h3 align="center">Aspiring Game Developer</h3>
 
-- 🌱 I’m currently learning **C++, SFML, Unreal Engine**
+- 🌱 I’m currently learning **C++, SFML, Graphic APIs**
 
 - 📫 How to reach me **krishfps9222@gmail.com**
 
