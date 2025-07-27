@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Krishna </h1>
-<h3 align="center">Unaspired C++ & Game Developer</h3>
+<h3 align="center">Aspiring C++ & Game Developer</h3>
 
 - 🌱 I’m currently learning **C++, DirectX, Game Engine Dev**
 
