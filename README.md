@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MiraEngine](https://github.com/kris2505a/Mira.git)
 
-- 🌱 I’m currently learning **to build Game Engines.**
+- 🌱 I’m currently learning **to build Game Engines**
 
 - 📫 How to reach me **krishfps9222@gmail.com**
 
